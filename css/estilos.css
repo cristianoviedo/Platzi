@@ -9,7 +9,11 @@ body
 }
 
 #cabecera{
+<<<<<<< HEAD
     background: rgb(62, 11, 158);
+=======
+    background: rgb(226, 121, 22);
+>>>>>>> cabecera
     color: white;
     font-weight: bold;
     margin: 0;
